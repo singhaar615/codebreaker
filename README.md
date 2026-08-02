@@ -25,7 +25,9 @@ While exploring an unknown island, you discover a mysterious locked treasure box
 
 ## How to Play
 
-bash python codebreaker.py
+\`\`\`bash
+python codebreaker.py
+\`\`\`
 
 From the menu:
 1. **Rules** — view the game rules
