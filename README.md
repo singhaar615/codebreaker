@@ -25,9 +25,7 @@ While exploring an unknown island, you discover a mysterious locked treasure box
 
 ## How to Play
 
-\`\`\`bash
-python codebreaker.py
-\`\`\`
+bash python codebreaker.py
 
 From the menu:
 1. **Rules** — view the game rules
@@ -41,4 +39,4 @@ During a game, enter your guess when prompted, or:
 
 ## Tech
 
-Written in Python 3, using the standard library only (`random`, `os`, `datetime`).
+Written in Python, using the standard library only (`random`, `os`, `datetime`).
