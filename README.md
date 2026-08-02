@@ -1,10 +1,10 @@
 # Codebreaker 🔐
 
-A command-line Mastermind-style code-breaking game built in Python. Crack the secret combination hidden in a locked treasure box using logic and the red/white pin clue system — with save and load support so you can pick up a game later.
+A command-line Mastermind-style code-breaking game built in Python. Crack the secret combination hidden in a locked treasure box using logic and the red/white pin clue system, with save and load support so you can pick up a game later.
 
 ## Story
 
-While exploring campus, you discover a mysterious locked treasure box. It's protected by a complex password lock — only sharp logic and problem-solving can crack it open.
+While exploring an unknown island, you discover a mysterious locked treasure box. It's protected by a complex password lock, and only sharp logic and problem-solving can crack it open.
 
 ## Rules
 
