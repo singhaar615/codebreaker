@@ -33,7 +33,7 @@ def main():
 
 #intro for when program called
 def intro():
-    print("While exploring campus, you discovered a mysterious locked treasure box.")
+    print("While exploring an unknown island, you discovered a mysterious locked treasure box.")
     print("The box contains a valuable secret, but it is protected by a complex")
     print("password lock. Only someone with sharp logic and problem-solving skills")
     print("can uncover the correct combination.")
